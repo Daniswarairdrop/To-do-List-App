@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  background: #f2f2f2;
+  text-align: center;
+}
+
+.app {
+  width: 300px;
+  margin: 50px auto;
+}
+
+input[type="text"] {
+  width: 70%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px;
+  margin-left: 5px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
